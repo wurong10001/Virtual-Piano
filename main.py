@@ -136,7 +136,7 @@ def start_progress_bar():
 def main():
     # 创建主窗口
     root = tk.Tk()
-    root.title("键盘弹钢琴")
+    root.title("Virtual-Piano")
     root.geometry("800x600")
 
     # 进度条
